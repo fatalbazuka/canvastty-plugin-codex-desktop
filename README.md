@@ -2,7 +2,7 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-Independent plugin by **bbutterm**, inspired by
+Independent plugin by [**fatalbazuka**](https://github.com/fatalbazuka), inspired by
 [Hermes HUD](https://github.com/howdeploy/canvastty-plugin-hermes-hud).
 It embeds a real, already running Codex/ChatGPT desktop window inside a canvas
 card on Windows. The optional HOME widget opens that card.
@@ -16,7 +16,7 @@ card on Windows. The optional HOME widget opens that card.
   at the same elevation as CanvasTTY.
 
 Install this directory as a developer plugin or publish its contents as the root
-of `bbutterm/canvastty-plugin-codex-desktop`, then inspect that repository in
+of [`fatalbazuka/canvastty-plugin-codex-desktop`](https://github.com/fatalbazuka/canvastty-plugin-codex-desktop), then inspect that repository in
 Settings → Plugins. Review the **desktop window embedding** permission. No npm
 installation, native plugin service, credentials or network permission is needed.
 

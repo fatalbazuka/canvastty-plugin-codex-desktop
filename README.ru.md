@@ -1,6 +1,6 @@
 # Codex Desktop для CanvasTTY
 
-Отдельный плагин от **bbutterm** по идее
+Отдельный плагин от [**fatalbazuka**](https://github.com/fatalbazuka) по идее
 [Hermes HUD](https://github.com/howdeploy/canvastty-plugin-hermes-hud).
 Показывает настоящее окно запущенного Codex/ChatGPT Desktop внутри карточки канваса.
 
@@ -9,7 +9,7 @@
 от одного пользователя, с одинаковыми правами и режимом DPI.
 
 1. Установите папку плагина через Developer plugins либо опубликуйте её содержимое
-   в корне `bbutterm/canvastty-plugin-codex-desktop` и установите по ссылке GitHub.
+   в корне [`fatalbazuka/canvastty-plugin-codex-desktop`](https://github.com/fatalbazuka/canvastty-plugin-codex-desktop) и установите по ссылке GitHub.
 2. Проверьте разрешение на просмотр заголовков и встраивание desktop-окон.
 3. Откройте карточку Codex Desktop через список расширений или HOME-виджет.
 4. Запустите Codex/ChatGPT Desktop обычным способом. Нажмите «Обновить», выберите
